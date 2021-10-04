@@ -8,12 +8,19 @@ Vestibulum pretium lobortis enim, eget semper mi luctus at. Vivamus accumsan vit
 
 
 
-- ***[GitHub](https://github.com/giovanniryan)***
-
-- ***[Instagram pessoal](https://instagram.com)***
-
-  ![Lorem Ipsum](C:\Users\giova\Desktop\DIO\loremipsum\LoremIpsum\Lorem Ipsum I\Teste.jpg)
+- [GitHub](https://github.com/giovanniryan)
+- [Instagram pessoal](https://instagram.com)
 
 
 
-_VectorStock_
+
+
+_{04.10.2021}_
+
+
+
+
+
+
+
+**.g**
