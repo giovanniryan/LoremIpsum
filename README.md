@@ -1,2 +1,2 @@
-# LoremIpsum
-Teste de Lorem Ipsum
+# Lorem Ipsum
+Utilização de Lorem Ipsum para testes com __Markdown__.
